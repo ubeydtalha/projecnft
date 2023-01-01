@@ -1,0 +1,49 @@
+{
+  "program": {
+    "candyMachine": "EG9KsULnXSZncacDah2UrDbz9seWHRwa39nJhUuaNDsX",
+    "candyMachineCreator": "3cubtcyMvjVNqJJszgaRzHottRqgW5DK7uPVCxbuzqnY",
+    "collectionMint": ""
+  },
+  "items": {
+    "-1": {
+      "name": "Bahtı S2k Piyadeler",
+      "image_hash": "7ccf59a3bc42e9af43bde6886a094cf79468854c163a3edf6b9d0c1a3d40f8c7",
+      "image_link": "https://arweave.net/IATVv1_ZNfJ46kwdFY3rf-d8sABDqnCrecG4TEYTlZM?ext=jpg",
+      "metadata_hash": "8790b21ab1f2fe721074cb0476b748b8f3a47a6fb862131c3a4dd3334e94a84d",
+      "metadata_link": "https://arweave.net/kI41e0f2vxC4on01k3FDUXH3hrgFr_y2XX1Fcg0xc2c",
+      "onChain": false
+    },
+    "0": {
+      "name": "Başımız belaya girecek",
+      "image_hash": "18f4085bbee1e6c7a79f6d69dac16c9590ae4fe27783fdfc34534d6d78e05be7",
+      "image_link": "https://arweave.net/4qmw7jmztCF05ZHspJFPwiVarZdcSSerSGUIKC-P6Hc?ext=jpg",
+      "metadata_hash": "352f3ba73e99784f32c0571ed047846d64ff32cb38883960664870ec48b965c3",
+      "metadata_link": "https://arweave.net/aa-0BujwUWwu1JtcuIWXYZN_61FejdhmI4rJavM0W5I",
+      "onChain": true
+    },
+    "1": {
+      "name": "Güçlü kaslar , güçlü İK",
+      "image_hash": "2cf3035fe29d3a38ef39628ec3d1f64b39155f02bcaf4e7f2f5edd2842bcc67b",
+      "image_link": "https://arweave.net/O57fX-OFABMREUPsj1kZY0mQ8IaVxOH-x3pHXhFT97A?ext=jpg",
+      "metadata_hash": "0ba47d8fb0d3415ce1027c61f607c9fc802935dae686ba8fafdcefbdc183ff6e",
+      "metadata_link": "https://arweave.net/WFCeBMhTkciDs8ZhhXT1b-kSem3m_vnx7Vm733N5hkg",
+      "onChain": true
+    },
+    "2": {
+      "name": "Günlük rutin selfisi",
+      "image_hash": "30c8ffe3591091fc2048ef3fa123f0b617992ed04175921fa36f845e4f55a10a",
+      "image_link": "https://arweave.net/LINdcU69xI5oYVU10l4O7ywvBZTfn9HzXtgvRH-Ipu0?ext=jpg",
+      "metadata_hash": "6ec3db04643cc123342303d70ea8984640b10acd725eabd3cf39a0a69d4e292a",
+      "metadata_link": "https://arweave.net/Z8vWNVj17SnakfbPTnsbD4yqaSG1TqH2zZtwpj-YDZY",
+      "onChain": true
+    },
+    "3": {
+      "name": "Dimension Wrapper",
+      "image_hash": "c02f7bef5c360ca4c3beff6c86a7967d7ebaebff77ee3f4c054bb011a6eabf5e",
+      "image_link": "https://arweave.net/7r0BgXqhJMOM_WV0jIFlcHbZSBAXe0LWkr3OUJXG4Lw?ext=jpg",
+      "metadata_hash": "d381620f82d9f58e5b69fdf529f3e9280bc008b466207667b886a1ebc587aaaa",
+      "metadata_link": "https://arweave.net/pgW4qlN2CM1x3RsfO5Q6qw0vCanMofxnQ4gfKF_3QyY",
+      "onChain": true
+    }
+  }
+}

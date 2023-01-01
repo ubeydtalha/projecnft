@@ -38,6 +38,7 @@ const Disconnected: FC = () => {
 
 
     return (
+        <div>
         <Container>
             <VStack spacing={20} align="center">
                 <Heading color={"white"} as="h1" size={"3xl"} noOfLines={2} textAlign="center" > Mint your buildoor. Earn $BLD. Level up.</Heading>
@@ -49,6 +50,7 @@ const Disconnected: FC = () => {
                 </HStack>
             </VStack>
         </Container>
+        </div>
     )
 }
 

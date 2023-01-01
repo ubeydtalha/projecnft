@@ -5,10 +5,12 @@ import styles from "../styles/Home.module.css"
 
 const  Navbar : FC = () => {
   return (
+    <div>
     <HStack width={"full"} padding={4}>
         <Spacer />
         <WalletMultiButton className={styles["wallet-adapter-button-trigger"]} />
     </HStack>
+    </div>
   )
 }
 

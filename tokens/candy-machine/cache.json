@@ -1,0 +1,49 @@
+{
+  "program": {
+    "candyMachine": "CvWJDSeR3L7Y7G9CBSMCQoWBAiVwcmub67Xqt8wXAVh8",
+    "candyMachineCreator": "Bp3GxnPnThFWrkQbGHb7SvBV1DB2f25fsc3doFsPBBm1",
+    "collectionMint": "AtJLm2xNpAEzNVs5xDMqLag6vDdRE1h7bcLyLJ5Hr1qH"
+  },
+  "items": {
+    "-1": {
+      "name": "The Lamas",
+      "image_hash": "5052b295fa56f5822db81de5c1fb3f5c9dcbffbefda72f383fb4b9431ba536ac",
+      "image_link": "https://arweave.net/xJNBUpk2fVUW7HTeeBnBg65xZhVcOIqmQyxN1djH1Go?ext=png",
+      "metadata_hash": "e63d84091b03888728f2c12c94e48410d264e1cc2c3f262e14775728ea9ed3a4",
+      "metadata_link": "https://arweave.net/69Exjq-Ok4SlnzilONxMukZdSDplZdyB1w-RJsyiN5A",
+      "onChain": true
+    },
+    "0": {
+      "name": "Cool Lama",
+      "image_hash": "21394b76feccb05706a71caa55d62c1b3c8cc71971559b8d2de0b7fd93a90e33",
+      "image_link": "https://arweave.net/W3NsAXsXEdHy0Jtnsz4DHUqcLo7uSW7jMLfykGi0jgc?ext=png",
+      "metadata_hash": "f016e6e9efc416e41122c05c580221d94c436d7022f316b40214ca6686375250",
+      "metadata_link": "https://arweave.net/w-aHhS7zHtorA_FDWXxGIRUH9po5qNhbar1kF0Nl86s",
+      "onChain": true
+    },
+    "1": {
+      "name": "Smile Lama",
+      "image_hash": "58b601f80670615533fe654d778e136fa8b6961e9c7bebb06643501b65ef2058",
+      "image_link": "https://arweave.net/kh1z5Q68Wuv9x2d0w-n8kUsNjgypor0MJUsa9i5E8vQ?ext=png",
+      "metadata_hash": "7a4b3c6d2fdef276fbea531658a021a1d7c22c993582c62b3d6ce61eca194aef",
+      "metadata_link": "https://arweave.net/uXEf9SgpLdksKrcaRTIa6NGuJApW7zpDIXTzAUPAtmw",
+      "onChain": true
+    },
+    "2": {
+      "name": "Rough Lama",
+      "image_hash": "b063584d9cd88a306e906bb81e097ddf6948bcfd1319442d3a4efe030c0fbf23",
+      "image_link": "https://arweave.net/gpQK2NH6H8VyMjsmOLNJ2oNhoQsZ4Onz3wSrNMl72-4?ext=png",
+      "metadata_hash": "38b3fc6235b03e61010d91f22b6a95d4208ea63001e461d691fa13f5dc8bcb1f",
+      "metadata_link": "https://arweave.net/kxrZ0EVJv-RExu5gq8mIHar4d_4WCPBB4XsfNNEPAXU",
+      "onChain": true
+    },
+    "3": {
+      "name": "Mad Lama",
+      "image_hash": "5f1e84f4a42daf929e4ac55a22d8147c45dcb39d175d8496b55f13be895b89f1",
+      "image_link": "https://arweave.net/GKe4ZMI1W6oec-nNRGVWnaeZ55h7Ll5hE45mYoCtyf0?ext=png",
+      "metadata_hash": "05629857530edb50350b811e3e6007530298c2317a35511ae4a93b16fd3201dd",
+      "metadata_link": "https://arweave.net/xICH7ruhQlqHwd6ehcc-MsYXL-1fFknyzK1iJgi84Ko",
+      "onChain": true
+    }
+  }
+}

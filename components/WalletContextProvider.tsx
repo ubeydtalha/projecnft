@@ -1,4 +1,4 @@
-import { FC , ReactNode  , useMemo} from "react"
+import { FC, ReactNode, useMemo } from "react"
 import {
     ConnectionProvider,
     WalletProvider,
@@ -15,14 +15,16 @@ const WalletContextProvider: FC<{ children: ReactNode }> = ({ children }) => {
 
     const url = useMemo(() => clusterApiUrl("devnet"), [])
 
-    const phontom = new PhantomWalletAdapter()
+    const phantom = useMemo(() => new PhantomWalletAdapter(), []);
 
     return (
+        <div>
         <ConnectionProvider endpoint={url}>
-            <WalletProvider wallets={[phontom]} autoConnect>
+            <WalletProvider wallets={[phantom]} autoConnect={true}>
                 <WalletModalProvider>{children}</WalletModalProvider>
             </WalletProvider>
-        </ConnectionProvider>   
+        </ConnectionProvider>
+        </div>
     )
 
 

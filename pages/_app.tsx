@@ -20,10 +20,12 @@ const theme = extendTheme({ colors });
 export default function App({ Component, pageProps }: AppProps) {
 
   return (
+    <div>
     <ChakraProvider theme={theme}>
       <WalletContextProvider>
         <Component {...pageProps} />
       </WalletContextProvider>
     </ChakraProvider>
+    </div>
   )
 }

@@ -1,0 +1,20 @@
+{
+    "name": "Cool Lama",
+    "symbol": "Lama",
+    "description": "The cool lama is looking , him fans",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "durum",
+            "value": "şeytani gülüş"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Rough Lama",
+    "symbol": "Lama",
+    "description": "The rough lama is rising",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "durum",
+            "value": "şeytani gülüş"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

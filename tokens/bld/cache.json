@@ -1,0 +1,41 @@
+{
+  "program": {
+    "candyMachine": "FWeiudgpAng2tkeRheDkMZs9zpHVTcFthBSSmvFz5miD",
+    "candyMachineCreator": "G2bzzokSmo2cxn97pPyLwzgVZK3kNqx2PqL2JXZgue2v",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Başımız belaya girecek",
+      "image_hash": "18f4085bbee1e6c7a79f6d69dac16c9590ae4fe27783fdfc34534d6d78e05be7",
+      "image_link": "https://arweave.net/KRAi5H2UC_XycBG2o-zY7c_HUtQfJie4tLrzHI-9CL4?ext=jpg",
+      "metadata_hash": "8a8ebb398d1a9bc6d159e097b6c1629ab0861e476134b0cb618b3f109ecca5ec",
+      "metadata_link": "https://arweave.net/en7dNBUGunR6cq9hBa5oaMePxCavuJIZwh_PXfWToaQ",
+      "onChain": true
+    },
+    "1": {
+      "name": "Güçlü kaslar , güçlü İK",
+      "image_hash": "2cf3035fe29d3a38ef39628ec3d1f64b39155f02bcaf4e7f2f5edd2842bcc67b",
+      "image_link": "https://arweave.net/fuZTMad6NEnFaosmwZxjLsYNl4vkkZ6P2sOUTytKzpA?ext=jpg",
+      "metadata_hash": "89264eb5014816309bcc3926720e832a176878b018c5a7522569a541dad95f5f",
+      "metadata_link": "https://arweave.net/Ii56gEdWx0eM3go1Phj7ToR-IgBeIBxT6LvYzCRfVGs",
+      "onChain": true
+    },
+    "2": {
+      "name": "Günlük rutin selfisi",
+      "image_hash": "30c8ffe3591091fc2048ef3fa123f0b617992ed04175921fa36f845e4f55a10a",
+      "image_link": "https://arweave.net/gamGEWmudZ6PnUhdUVzNlsAS60nx5zr7nSnxMzarKTE?ext=jpg",
+      "metadata_hash": "472bf1493fa35682b6c949c2a369d6de5bebda50a31112738ba609a224557ea4",
+      "metadata_link": "https://arweave.net/yRebQBvLXXHvFi4W_XWpMlKAgXIgWlOkmGzx84w0zkA",
+      "onChain": true
+    },
+    "3": {
+      "name": "Dimension Wrapper",
+      "image_hash": "c02f7bef5c360ca4c3beff6c86a7967d7ebaebff77ee3f4c054bb011a6eabf5e",
+      "image_link": "https://arweave.net/2xgxj-xKEAG_3mVx6jsDodNNJguCH9-bWSQ-d-CARlM?ext=jpg",
+      "metadata_hash": "f2aa80960a5e82aa40061122c5f41423601b7397fb7b131ca9d16ac05f16deb6",
+      "metadata_link": "https://arweave.net/u4jbafJdyqF4-wDjdn6h5_3K3IIgdm4K35a-9jpwhnM",
+      "onChain": true
+    }
+  }
+}
